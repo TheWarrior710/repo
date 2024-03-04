@@ -1,2 +1,2 @@
 # repo
-GG no team
+Buzziong Battle
